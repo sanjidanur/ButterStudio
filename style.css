@@ -1,0 +1,48 @@
+.fm {
+	font-family: poppins;
+	font-size: 25px;
+	color: #B00C65;
+}
+
+.bs-logo {
+	width: 50px;
+}
+
+.img-jmbo {
+	background-image: url(../Images/slider1.jpg);
+	background-size:100%;
+}
+
+.section-header {
+	color: #B00C65;
+
+}
+
+.card {
+	background-image: linear-gradient(180deg, #ffb7c4, #fdeef1);
+}
+
+.btn-card {
+	background: white;
+	color: Black;
+	border-radius: 15px;
+	box-shadow: 1px 1px 15px #ec86be;
+}
+
+.btn-card:hover {
+	background: #ec86be;
+	color: white;
+	border-radius: 15px;
+	box-shadow: 1px 1px 15px white;
+}
+
+#card-heading {
+	color: #B00C65;
+	font-weight: bold;
+}
+
+.card-img-top {
+	height: 200px;
+	width: 150px;
+
+}
