@@ -1,16 +1,26 @@
 .fm {
-	font-family: poppins;
-	font-size: 25px;
-	color: #B00C65;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	color: #9c0d5c;
 }
 
 .bs-logo {
 	width: 50px;
 }
 
+.bs-text {
+	font-family: 'Kalam', cursive;
+	font-size: 20px;
+	color: #ac1c69;
+
+	text-shadow: 2px 5px 10px #B00C65;
+	text-align: center;
+
+}
+
 .img-jmbo {
 	background-image: url(../Images/slider1.jpg);
-	background-size:100%;
+	background-size: 100%;
 }
 
 .section-header {
@@ -42,7 +52,45 @@
 }
 
 .card-img-top {
-	height: 200px;
+	height: 150px;
 	width: 150px;
 
+}
+
+.caro-img {
+	width: 150px;
+}
+
+.hr-style {
+	border-right: 5px dotted white;
+	height: 80px;
+
+}
+
+.caro-bg {
+	background-color: #fdeef1;
+
+}
+
+.carousel-item {
+	padding: 5% 15%;
+	font-style: italic;
+}
+
+.carousel-control-prev-icon   {
+	background-color: #B00C65;
+}
+
+.carousel-control-next-icon{
+	background-color: #B00C65;
+}
+
+.carousel-indicators li{
+	background-color: #B00C65 ;
+}
+.reviewer {
+	
+	
+	color:#B00C65;
+	text-transform: capitalize;
 }
